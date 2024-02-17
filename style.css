@@ -5,14 +5,13 @@
   box-sizing: border-box;
 
 }
-/* body{
+body{
     background-image: url("todolist.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     
-} */
+}
 .container{
-    background: linear-gradient(150deg,#e393ed,#e081b8);
     width: 100%;
     min-height: 100vh;
     padding: 10px;
